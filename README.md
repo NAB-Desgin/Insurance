@@ -1,4 +1,4 @@
-# Insurance
+
 # 🏥 Insurance Cost Analysis using Machine Learning
 
 ## 📌 Project Overview
